@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dev": "php -S localhost:8000",
+    "deploy": "gcloud app deploy app.yaml --version v1"
+  }
+}
